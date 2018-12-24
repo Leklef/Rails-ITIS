@@ -1,0 +1,6 @@
+[submodule "DataStorage"]
+	path = DataStorage
+	url = https://github.com/Leklef/DataStorage.git
+[submodule "AnimeWebInterface"]
+	path = AnimeWebInterface
+	url = https://github.com/Leklef/AnimeWebInterface.git
